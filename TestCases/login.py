@@ -1,0 +1,2 @@
+def writeToken():
+    pass
