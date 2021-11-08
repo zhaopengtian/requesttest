@@ -4,3 +4,6 @@ class dd():
 
     def gggf(self):
         pass
+
+    def gggff(self):
+        pass
