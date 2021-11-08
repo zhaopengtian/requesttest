@@ -1,2 +1,6 @@
 class dd():
-    pass
+    def ggg(self):
+        pass
+
+    def gggf(self):
+        pass
